@@ -1,0 +1,120 @@
+table{
+    width: 750px;
+
+}
+thead{
+    height: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+td{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: rgb(94, 94, 94);
+}
+tbody{
+    height: 300px;
+}
+.one{
+    padding-left: 10px;
+    color: black;
+    background-color: rgb(230, 230, 230);
+    font-size: 60%;
+    font-weight: 600;
+    text-align: left;
+    width: 220px;
+}
+.two{
+    background-color: rgb(75, 75, 75);
+    color: white;
+    text-align: center;
+    font-size: 60%;
+    font-weight: 600;
+    
+}
+.three{
+    background-color: rgb(223, 60, 95);
+    color: white;
+    text-align: center;
+    font-size: 60%;
+    font-weight: 600;
+}
+.four{
+    background-color: rgb(21, 206, 21);
+    color: white;
+    text-align: center;
+    font-size: 60%;
+    font-weight: 600;
+}
+.btn_one{
+    color: rgb(94, 94, 94);
+    border-radius: 3px;
+    border: solid 1.5px  rgb(206, 206, 206);
+    background-color: white;
+    text-transform: uppercase; 
+    height: 30px;
+    width: 120px;
+}
+.btn_two{
+    width: 93px;
+    height: 23px;
+    color: white;
+    height: 30px;
+    width: 120px;
+    border-radius: 2px;
+    border: none;
+    background-color: rgb(223, 60, 95);  
+    text-transform: uppercase; 
+}
+.center{
+    text-align: center;
+}
+.greytxt{
+    color: rgb(100, 99, 99);
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.purptxt{
+    color: purple;
+    text-align: center;
+    font-weight: 500;
+    background-color: rgb(233, 233, 233);
+    color: rgb(223, 60, 95);
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.greentxt{
+    color:  rgb(21, 206, 21);
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+
+}
+td{
+    text-align: center;
+}
+.ASD{
+    color: rgb(94, 94, 94);
+    text-align: left;
+    padding-left: 10px;
+    background-color: white;
+    font-size: 80%;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.center_purp{
+    text-align: center;
+    background-color: rgb(233, 233, 233);
+}
+.purptxt_num{
+    color: rgb(94, 94, 94);
+    background-color: rgb(233, 233, 233);
+}
